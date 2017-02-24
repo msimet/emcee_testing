@@ -21,7 +21,7 @@ What's more, if we do things correctly, those mu and sigma values that we fit wi
 The fitting procedure
 ---------------------
 
-run_mcmc.py includes some functions to actually run MCMC chains using the `emcee` package [Foreman-Mackey et al, available here](http://dan.iel.fm/emcee/).  At the moment, this does no hierarchical work--it just fits the parameters for each individual cluster.
+run_mcmc.py includes some functions to actually run MCMC chains using the `emcee` package [(Foreman-Mackey et al, available here)](http://dan.iel.fm/emcee/).  At the moment, this does no hierarchical work--it just fits the parameters for each individual cluster.
 
 Results
 -------
